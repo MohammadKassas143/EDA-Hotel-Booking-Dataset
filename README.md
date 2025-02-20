@@ -39,5 +39,5 @@ The dataset contains booking information, including:
 ## Key Insights
 - Cancellations are significantly influenced by lead time and pricing strategies.
 - Demand is highest during specific seasons, suggesting the need for dynamic pricing.
-- Customer preferences vary across different segments, impacting room allocation strategies.
+- Summer could be a strategic season to prioritize resort bookings for maximizing revenue.
 
