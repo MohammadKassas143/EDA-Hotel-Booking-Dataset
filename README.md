@@ -32,11 +32,9 @@ The dataset contains booking information, including:
    - Examined customer segmentation to tailor marketing strategies.
 
 ## Tools & Technologies Used
-- **Python** (for data processing and analysis)
 - **Pandas** (for data manipulation)
 - **NumPy** (for numerical operations)
 - **Matplotlib & Seaborn** (for visualization)
-- **SciPy** (for statistical analysis)
 
 ## Key Insights
 - Cancellations are significantly influenced by lead time and pricing strategies.
